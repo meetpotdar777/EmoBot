@@ -2,11 +2,9 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![TailwindCSS](https://img.svg.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vibe](https://img.shields.io/badge/vibe-Sarcastic-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
 
-<p align="center"> <img src="https://img.icons8.com/nolan/512/robot-tatu.png" width="200" title="EmoBot v30.0"> </p>
 
 ---
 
