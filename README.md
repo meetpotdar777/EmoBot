@@ -1,4 +1,4 @@
-# EmoBot v30.0: The Advanced Malice AI Engine
+# EmoBot v30.0: The Advanced AI Engine
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
