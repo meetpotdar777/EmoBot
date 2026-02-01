@@ -1,0 +1,8 @@
+{
+  "name": "EmoBot v30.0 - Web Edition",
+  "description": "A grumpy, sarcastic AI companion that roasts you based on your appearance and listens to your failures. Features scanning, voice interaction, and a dramatic self-destruct sequence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
